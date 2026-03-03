@@ -20,7 +20,6 @@
 />
 </a>
 
-FB: 
 
 <div align="center">
 🪽About me🪽
