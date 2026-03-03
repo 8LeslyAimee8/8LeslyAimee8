@@ -1,23 +1,49 @@
 # Lesly-Aimee-C.-R.
-<div align="center">
-🍓**Gracias por visitarme, me llamo Lesly**🍓
-<img width="957" height="345" alt="Banner12" src="https://github.com/user-attachments/assets/f75ec4f7-5a60-4ca1-815b-2db35545e65d" />
-Linkedin: https://www.linkedin.com/in/lesly-aimee-coca-reyes
-FB: https://www.facebook.com/profile.php?id=100010246867910
+<p align="right"> 
+  <div align="center">
+    <h1>Thanks for visitng me!</h1>
+  <img width ="345" height="345" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhoZWYwMTVzbXE3eXdqOTlneWtqNWszNWI4Y2kxOW4xaHh5Njh4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hfBvI2Pq6zCYo/giphy.gif"> 
+  </p>
+
+## I find a bug, and you found me!
+
+
+🍓 **Hello there! my name is Lesly** 🍓
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lesly-aimee-coca-reyes-8bb073238/">
+  <img height="50" src="https://github.com/user-attachments/assets/9e67d415-f3f9-4dcf-af25-83d059afa23c"
+/>
+</a>
+<a href="https://www.facebook.com/profile.php?id=100010246867910">
+<img height="50" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg"
+/>
+</a>
+
+FB: 
 
 <div align="center">
-🪽Un poco de mí🪽
+🪽About me🪽
 
-🖥️ QA Engineer Junior
+:wrench: Quality management
+🖥️ QA Engineer
 ✍️Manual Testing
 🔠SQL
-🖥️Consola
+🖥️Console
 📲APIs
 
-Estudiante de QA Engineer apasionada por mantener la calidad de los productos a partir de la elaboración de casos de prueba, listas de comprobación, reportes de errores y manejo de pruebas manuales. Me gusta poner atención a los detalles y ayudar a mejorar la calidad de los productos finales. Puedo manejar excel y google sheets, así como el uso de herramientas de testing como Android Studio, Postman, JIRA y lenguaje SQL para su uso en consola. 
+A stubborn, passionate and always searching for what's new, I find what you don't see, and I see what you want.
 
-**Habilidades Técnicas**
-⭐POSTMAN ⭐SQL ⭐ANDROID STUDIO ⭐JIRA ⭐CONSOLA ⭐HTTP JSON ⭐FIGMA
+My knolege go all the way down to the client and back to your bussnes. With 2 years in quality assurance, I find the little bugs and technical problems before your targets does; and of course with my past in costumer service, I know for sure, what the people need. 
+
+
+| **Technical skills**|   ⭐  |
+|  --- | --- |
+| ⭐POSTMAN           | ⭐JIRA|
+| ⭐SQL              | ⭐HTTP |
+| ⭐ANDROID STUDIO   | ⭐CONSOLE |  
+| ⭐JSON             | ⭐FIGMA |
+|⭐ PYCHARM         |          |
 
 # **Proyectos**
 🍎 Lista de comprobación en una aplicación móvil:
