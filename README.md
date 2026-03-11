@@ -1,11 +1,4 @@
 # QA Engineer - Lesly-Aimee C.R.
-<p align="right"> 
-  <div align="center">
-    <h1>Thanks for visitng me!</h1>
-  <img width ="345" height="345" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhoZWYwMTVzbXE3eXdqOTlneWtqNWszNWI4Y2kxOW4xaHh5Njh4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hfBvI2Pq6zCYo/giphy.gif"> 
-  </p>
-
-## I find a bug, and you found me!
 
 
 🍓 **Hello there! my name is Lesly** 🍓
@@ -49,5 +42,13 @@ My knolege go all the way down to the client and back to your bussnes. With 2 ye
   <a href="https://8leslyaimee8.github.io/8LeslyAimee8github.io/">
   <img height="50" src="https://github.com/user-attachments/assets/1091ddc2-10ac-4489-bd4b-faedb36e078f" 
 />
+
+<p align="right"> 
+  <div align="center">
+    <h1>Thanks for visitng me!</h1>
+  <img width ="345" height="345" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhoZWYwMTVzbXE3eXdqOTlneWtqNWszNWI4Y2kxOW4xaHh5Njh4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hfBvI2Pq6zCYo/giphy.gif"> 
+  </p>
+
+## I find a bug, and you found me!
     
 
