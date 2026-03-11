@@ -2,7 +2,7 @@
 
 <p align="right"> 
   <div align="center">
-🍓 <h1>Cuality assurance</h1> 🍓
+<h1>Cuality assurance</h1> 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lesly-aimee-coca-reyes-8bb073238/">
