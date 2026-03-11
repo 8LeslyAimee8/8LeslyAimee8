@@ -1,7 +1,7 @@
 # QA Engineer - Lesly-Aimee C.R.
 
-
-🍓 **Hello there! my name is Lesly** 🍓
+<p align="center">
+🍓 **Cuality assurance** 🍓
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lesly-aimee-coca-reyes-8bb073238/">
