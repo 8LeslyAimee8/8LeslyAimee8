@@ -1,7 +1,8 @@
 # QA Engineer - Lesly-Aimee C.R.
 
-<p align="center">
-🍓 **Cuality assurance** 🍓
+<p align="right"> 
+  <div align="center">
+🍓 <h1>Cuality assurance</h1> 🍓
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lesly-aimee-coca-reyes-8bb073238/">
@@ -45,7 +46,7 @@ My knolege go all the way down to the client and back to your bussnes. With 2 ye
 
 <p align="right"> 
   <div align="center">
-    <h1>Thanks for visitng me!</h1>
+    <h2>Thanks for visitng me!</h2>
   <img width ="345" height="345" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhoZWYwMTVzbXE3eXdqOTlneWtqNWszNWI4Y2kxOW4xaHh5Njh4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hfBvI2Pq6zCYo/giphy.gif"> 
   </p>
 
