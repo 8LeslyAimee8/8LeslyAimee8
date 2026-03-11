@@ -1,4 +1,4 @@
-# Lesly-Aimee-C.-R.
+# QA Engineer - Lesly-Aimee C.R.
 <p align="right"> 
   <div align="center">
     <h1>Thanks for visitng me!</h1>
@@ -44,13 +44,10 @@ My knolege go all the way down to the client and back to your bussnes. With 2 ye
 | ⭐JSON             | ⭐FIGMA |
 |⭐ PYCHARM         |          |
 
-# **Proyectos**
-🍎 Lista de comprobación en una aplicación móvil:
-https://docs.google.com/spreadsheets/d/1JALybdbcBZEYiHGEcp1JvvkrB8EN7BsN/edit?usp=sharing&ouid=108970795822664318100&rtpof=true&sd=true
-
-🍎 Practicas de valores límites:
-https://docs.google.com/spreadsheets/d/12mfn8E4QKdqHDtjM3f2vh-hMFdDvPw-6/edit?usp=sharing&ouid=108970795822664318100&rtpof=true&sd=true
-
-🍎 Titulos de informes de errores en JIRA para pruebas API: 
-https://docs.google.com/spreadsheets/d/1QBYGigVr213dDLwBxgcNKYG0436qSu_oxn7NtXA8QOA/edit?usp=sharing
+**My portfolio**
+<p align="center">
+  <a href="https://8leslyaimee8.github.io/8LeslyAimee8github.io/">
+  <img height="50" src="https://github.com/user-attachments/assets/1091ddc2-10ac-4489-bd4b-faedb36e078f" 
+/>
+    
 
